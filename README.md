@@ -1,2 +1,2 @@
-# Schisto-Pairsims
-Simulation for the paper "Schistocephalus parasite infection alters individual movement and collective behaviour of three-spined sticklebacks"
+# SwarmKit
+A python framework for simulating self-organised groups and the role of individual heterogeneity
